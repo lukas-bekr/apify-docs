@@ -55,7 +55,7 @@ To speed up builds triggered via API, you can use the `useCache=1` parameter. Th
 Running builds from the Console By default, the Console uses cached data when starting a build. You can also run a clean build without using the cache. To run a clean build:
 
 1. Go to your Actor page.
-2. Select **Source** > **Code**.
-3. Locate the **Start** button. Next to it, click on the arrow & choose **Clean build**
+1. Select **Source** > **Code**.
+1. Locate the **Build** button. Next to it, click on the arrow and choose **Clean build**.
 
 :::
